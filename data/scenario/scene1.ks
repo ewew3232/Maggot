@@ -19,7 +19,7 @@
 [chara_show  name="Girl"  time="3000"  wait="true"  left="285"  top="309"  width="217"  height="332"  reflect="false"  ]
 [tb_start_text mode=2 ]
 #
-......?[l][r]
+……?[l][r]
 [_tb_end_text]
 
 [cm  ]
